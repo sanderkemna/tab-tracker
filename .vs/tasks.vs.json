@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Register",
+      "appliesTo": "client/src/components/Register.vue",
+      "type": "launch"
+    }
+  ]
+}
