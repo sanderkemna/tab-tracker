@@ -6,7 +6,7 @@ export default {
   }
 }
 
-//AuthenicationService.register({
+// AuthenicationService.register({
 //  email: 'testing@gmial.com',
 //  password: '12344'
-//})
+// })
