@@ -23,7 +23,7 @@ export default {
     }
   },
   methods: {
-    async register() {
+    async register () {
       try {
         await AuthenticationService.register({
           email: this.email,
